@@ -23,7 +23,7 @@ let go2Socks5s = [
 	'*.loadshare.org',
 ];
 let addresses = [];
-let addressesapi = [];
+let addressesapi = [https://raw.githubusercontent.com/xxjune4437492/krip/refs/heads/main/krip.txt?token=GHSAT0AAAAAAC455QHFV565TXKMS63P4PXIZ6WOQ3A];
 let addressesnotls = [];
 let addressesnotlsapi = [];
 let addressescsv = [];
